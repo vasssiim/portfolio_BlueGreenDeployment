@@ -1,0 +1,5 @@
+{
+  "name": "Blue-Green Deployment Dashboard",
+  "description": "An interactive animation of a Blue-Green deployment workflow with real-time status updates and traffic shifting.",
+  "requestFramePermissions": []
+}
